@@ -20,7 +20,7 @@ unixDictionary.txt contains the built in Unix dictionary.
 
 
 
-## Coropa ##
+## Corpa ##
 
 mobyDickCorpus.txt contains the book Moby Dick.
 
