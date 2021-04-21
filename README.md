@@ -24,7 +24,7 @@ unixDictionary.txt contains the built in Unix dictionary.
 
 mobyDickCorpus.txt contains the book Moby Dick.
 
-givenTestCase.txt contains the test case provided from assignment 1.
+givenTestCase.txt contains small test case.
 
 
 
