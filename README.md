@@ -6,7 +6,7 @@ Recommends 3 correctly spelled words for every mispelled word.
 
 Uses Levenshtein Distance and N-grams to recommend a correctly spelled word.
 
-Example: python3 ngramSpellChecker.py commonWordsDictionary.txt  mobyDickCorpus.txt
+
 
 ## Dictionaries ##
 
@@ -22,3 +22,9 @@ mobyDickCorpus.txt contains the book Moby Dick.
 
 givenTestCase.txt contains the test case provided from assignment 1.
 
+
+## Usage ##
+
+Python script ngramSpellChecker.py takes in a dictionary and corpus via command line.
+
+Example: python3 ngramSpellChecker.py commonWordsDictionary.txt  mobyDickCorpus.txt 
