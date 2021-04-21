@@ -1,4 +1,4 @@
-#Spellchecker#
+# Spellchecker #
 
 Spellchecker built with python that takes in dictionary and corpus via command line arguments.
 
